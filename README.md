@@ -2,8 +2,9 @@
 A MagicMirror module to hide other modules 
 
 Clone repo 
+```bash
 git clone https://github.com/TheSwedishMaker/MMM-ModuleController 
-
+```
 include following in your config.js 
 
 ```bash
